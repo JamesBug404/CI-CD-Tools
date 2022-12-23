@@ -7,4 +7,17 @@ Continuous integration means developers merge their changes back to the main bra
 GitLab, GitHub, Jenkins, AWS Code Commit or Azure Pipelines are used for CI/CD. As teams increasingly embrace DevOps to support market demand for quicker fixes, shorter release cycles, and high-quality software code, CI/CD tools can help a team automate their development, deployment, and testing. CI/CD tools also report the status of deployment steps, allowing DevOps engineers to track the health and status of their deployment pipelines. The right CI/CD tools will help DevOps engineers spend less time on integration and delivery and more time on developing a quality product.
 
 # CI/CD tools source
-https://www.atlassian.com/continuous-delivery/continuous-integration/tools
+# GitLab
+https://docs.gitlab.com/ee/ci/
+
+# GitHub
+https://resources.github.com/ci-cd/
+
+# Jenkins
+https://www.jenkins.io/
+
+# AWS Code Commit
+https://aws.amazon.com/codepipeline/
+
+# Azure Pipelines
+https://azure.microsoft.com/en-us/products/devops/pipelines/
